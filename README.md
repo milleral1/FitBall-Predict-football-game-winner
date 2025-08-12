@@ -6,7 +6,7 @@ This project explores predicting the outcomes of English Premier League matches 
 
 
 <p align="center">
-  <img src="Images/images.jpg" alt="Model Architecture" width="400"/>
+  <img src="Images/images.jpg" alt="Model Architecture" width="350"/>
 </p>
 
 
