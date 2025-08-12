@@ -30,6 +30,22 @@ This project explores predicting the outcomes of English Premier League matches 
 
 
 
+## Hyperparameters
+
+Below are the hyperparameters used for our best XGBoost model after tuning:
+
+colsample_bytree = 0.6595  
+gamma = 4.2244  
+learning_rate = 0.01698  
+max_depth = 4  
+min_child_weight = 3  
+n_estimators = 716  
+reg_alpha = 0.4960  
+reg_lambda = 1.8858  
+subsample = 0.6742  
+window size = 5 (number of past matches considered when calculating features)   
+
+
 ## Authors:
 
 * Alon Miller
