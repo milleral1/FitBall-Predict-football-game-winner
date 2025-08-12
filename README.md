@@ -4,7 +4,10 @@
 
 This project explores predicting the outcomes of English Premier League matches using machine learning and deep learning models. After evaluating baseline results, XGBoost proved to be the most effective, and we fine-tuned it to improve accuracy. The work highlights both the potential and the challenges of sports prediction, especially in forecasting draws.
 
-![image](Images/images.png)
+
+<p align="center">
+  <img src="Images/images.jpg" alt="Model Architecture" width="400"/>
+</p>
 
 
 ## Repository Structure
