@@ -15,12 +15,11 @@ This project explores predicting the outcomes of English Premier League matches 
 ## How to Use
 1. **Clone the Repository:** Clone this repository to your local machine.
    ```python
-      git clone https://github.com/safadishadi/NBA-Stats-Transformer-Game-Insights-with-Deep-Learning.git
+      git clone https://github.com/milleral1/FitBall-Predict-football-game-winner.git
    ```
 2. **Install Dependencies:** Ensure all necessary dependencies are installed.
    ```python
-    pip install optuna pytorch-tabular
-    pip install nba_api
+    pip install numpy pandas scikit-learn xgboost scipy matplotlib seaborn tensorflow
     ```
 3. **Prepare Data:** If using custom data, format it appropriately and replace the existing dataset.
 4. **Run the Model:** Execute provided scripts in the `code` directory.
